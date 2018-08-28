@@ -1,15 +1,11 @@
 {
   "main.css": "static/css/main.bedb91ff.css",
   "main.css.map": "static/css/main.bedb91ff.css.map",
-  "main.js": "static/js/main.feb2eeb2.js",
-  "main.js.map": "static/js/main.feb2eeb2.js.map",
+  "main.js": "static/js/main.71b235d1.js",
+  "main.js.map": "static/js/main.71b235d1.js.map",
   "static\\media\\avatar.jpg": "static/media/avatar.a340b2bc.jpg",
   "static\\media\\earthL.gif": "static/media/earthL.09b48393.gif",
   "static\\media\\earthR.gif": "static/media/earthR.c905d712.gif",
   "static\\media\\fire.gif": "static/media/fire.6ed572a4.gif",
-  "static\\media\\port0.jpg": "static/media/port0.d2fa0d35.jpg",
-  "static\\media\\port1.jpg": "static/media/port1.cf4dae6d.jpg",
-  "static\\media\\port3.jpg": "static/media/port3.0f783ca4.jpg",
-  "static\\media\\port4.jpg": "static/media/port4.a1721438.jpg",
   "static\\media\\water.gif": "static/media/water.f922f7e3.gif"
 }
